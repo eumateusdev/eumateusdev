@@ -9,14 +9,14 @@ I like to venture into the world of technology and learn something new whenever 
 My focus currently is on studying Python. 🐍
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omateusandrade&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omateusandrade&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eumateusdev&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumateusdev&layout=compact&theme=github_dark"/>
 </div>
 
 ### 📱 These are my social networks:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eumateusandrade/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusandradeti/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eumateus.dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusandradecontato@gmail.com)
 
 ### 🛠️ Technologies e Tools I use:
