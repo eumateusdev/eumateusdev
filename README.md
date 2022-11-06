@@ -6,7 +6,8 @@ At the moment, I am graduating in Software Engineering 🖥️ at the Federal Un
 
 I like to venture into the world of technology and learn something new whenever possible. 👨🏻‍💻
 
-My focus currently is on studying Python. 🐍
+Right now my interests are UX, HTLM, Java for Web Development and see a little bit of Python. 🐍
+
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eumateusdev&show_icons=true&theme=github_dark"/>
