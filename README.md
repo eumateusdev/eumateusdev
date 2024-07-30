@@ -6,7 +6,7 @@ At the moment, I am graduating in Software Engineering 🖥️ at the Federal Un
 
 I like to venture into the world of technology and learn something new whenever possible. 👨🏻‍💻
 
-Currently, my personal and professional study interests are: UX Design, Data Analysis and Engineering, Machine Learning, Computer Graphics, and Front-End Development. 💻
+Currently, my personal and professional study interests are: UX Design, QA, Data Analysis and Engineering, Machine Learning, Computer Graphics, and Front-End Development. 💻
 
 
 <div>
