@@ -1,12 +1,12 @@
-## Hi! ✨
+## Hello, hello, hello! ✨
 
-I'm Mateus Andrade! 
+I'm Mateus Andrade, a brazilian and a Software Engineer graduated from the Federal University of Ceará! 🇧🇷
 
 At the moment, I am graduating in Software Engineering 🖥️ at the Federal University of Ceará! 🎓
 
 I like to venture into the world of technology and learn something new whenever possible. 👨🏻‍💻
 
-Right now my interests are UX, HTLM, Java for Web Development and see a little bit of Python. 🐍
+Currently, my personal and professional study interests are: UX Design, Data Analysis and Engineering, Machine Learning, Computer Graphics, and Front-End Development. 💻
 
 
 <div>
